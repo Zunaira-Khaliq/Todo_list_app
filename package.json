@@ -1,5 +1,5 @@
 {
-  "name": "todo_list_app",
+  "name": "zydo78_todo_list_app",
   "version": "1.0.0",
   "description": "This is simple todo list app  by using inquirer,node.js and typescript",
   "main": "index.js",
